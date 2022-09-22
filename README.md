@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilles Roels</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
-- 🌱 I’m currently learning **HTML, javascript, css**
+- 🌱 I’m currently learning **PHP, Typescript, React**
 
 - 📫 How to reach me **gilles.roels@student.arteveldehs.be**
 
